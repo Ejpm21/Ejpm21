@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](assets/header-banner.png)
+#### My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,java,php,html,css,sklearn,mysql&theme=light)](https://skillicons.dev)
 
 <!--
 **Ejpm21/Ejpm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
